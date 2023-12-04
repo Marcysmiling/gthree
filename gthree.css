@@ -17,8 +17,24 @@ padding: 20px;
 }
 .messi{
    size: 10%;
-
 }
 
 
 /* Derick brach */
+body{
+    border-radius: 20px;
+    background-color: rgb(139, 139, 155);
+    text color:#fffff;
+    border :none;
+    padding: 20px;
+    
+}
+.container{
+display: flex;
+border radius: 20px;
+border:none;
+align-self: center;
+}
+.messi{
+    width: 10%;
+}
